@@ -6,5 +6,5 @@ Please cite our paper if the code is helpful to your research.
   author={He, Yan and Tu, Bing and Liu, Bo and Li, Jun and Plaza, Antonio},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2024}，
-publisher={IEEE}
+  publisher={IEEE}
 }
